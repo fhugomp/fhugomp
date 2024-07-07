@@ -56,8 +56,6 @@
     </tr>
 </table>
 
-![snake gif](https://github.com/fhugomp/fhugomp/blob/output/github-contribution-grid-snake.gif)
-
 <br>
 
 ## 📱 Contato
