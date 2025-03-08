@@ -71,8 +71,9 @@
 
 <p align="center" style="background:blue">
 <a href="https://www.linkedin.com/in/fhugomp/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hugo%20Mendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-05122A?logo=linkedin-white&logoColor=fff)](#)" alt="linkedin"/>
 </a>
+  
 <a href="mailto:contatofhugomp@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin"/>
 </a>
