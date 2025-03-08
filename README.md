@@ -61,7 +61,7 @@
 
 ---
 
-![snake gif](https://github.com/fhugomp/fhugomp/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/fhugomp/fhugomp/blob/output/ocean.gif)
 
 ---
 
