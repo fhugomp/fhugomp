@@ -68,7 +68,7 @@ jobs:
 
             dist/github-snake.svg
 
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_dots=#1A5FB4&color_snake=#FF2800&color_grass=#0D1117
 
             dist/ocean.gif?color_snake=red&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
