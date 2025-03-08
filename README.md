@@ -61,7 +61,7 @@
 
 ---
 
-[![Snake animation](https://github.com/<fhugomp>/<fhugomp>/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+![snake gif](https://github.com/fhugomp/fhugomp/blob/output/github-snake-dark.svg)
 
 ---
 
