@@ -49,10 +49,10 @@
 <table align='center'>
     <tr>
       <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=false&count_private=true" alt="hugomendes's stats" />
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=false&hide_rank=false&rank_icon=github&count_private=true&locale=pt-br" alt="fhugomp's stats" />
       </td>
       <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomp&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" alt="hugomendes's most languages"/>
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomp&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&locale=pt-br" alt="fhugomp's most languages"/>
       </td>
     </tr>
 </table>
