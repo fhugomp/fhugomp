@@ -60,7 +60,7 @@
     </tr>
   </table>
   
-  # <img width="70%" style="margin-top:0; padding:0;" src="https://github-readme-streak-stats.herokuapp.com/?user=fhugomp&theme=tokyonight&hide_border=true&background=0D1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="70%" style="margin-top:0; padding:0;" src="https://github-readme-streak-stats.herokuapp.com/?user=fhugomp&theme=tokyonight&hide_border=true&background=0D1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 <br>
 
