@@ -2,11 +2,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fhugomendes&color=blue" alt="Profile views" /> </p>
 
--  📖 Estudante de Ciência de Dados na Universidade Federal do Ceará
-
-- 🔥 Atualmente estudando desenvolvimento Full-Stack
-
-- 🏠 Fortaleza/CE  
+📖 Estudante de Ciência de Dados na Universidade Federal do Ceará<br>
+🔥 Atualmente estudando desenvolvimento Full-Stack<br>
+🏠 Fortaleza/CE  
 
 ----
 
