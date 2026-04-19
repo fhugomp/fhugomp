@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=E95420">&nbsp;
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">&nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git">&nbsp;
+  <img src="https://img.shields.io/badge/-Power_Bi-05122A?style=for-the-badge&logo=codeforces&logoColor=white">&nbsp;
   
   <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript">&nbsp;
