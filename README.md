@@ -16,9 +16,9 @@
 <div align="center">
   
   <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=E95420">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">&nbsp;
+ <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwN0FDQyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgMCA4LjAyNnY3Ljk0OGExIDEgMCAwIDAgLjMyNi43NjVsMS4zMjMgMS4yMDFhMSAxIDAgMCAwIDEuMjc2LjA1Nmw0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+">&nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git">&nbsp;
-  <img src="https://img.shields.io/badge/-Power_Bi-05122A?style=for-the-badge&logo=codeforces&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/-Power%20BI-05122A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0YyQzgxMSI+PHBhdGggZD0iTTIxIDF2MjJhMSAxIDAgMCAxLTEgMWgtMy41VjdjMC0uODI3LS42NzMtMS41LTEuNS0xLjVoLTJWMWExIDEgMCAwIDEgMS0xaDZhMSAxIDAgMCAxIDEgMXptLTYgNUg5YTEgMSAwIDAgMC0xIDF2NC41aDJjLjgyNyAwIDEuNS42NzMgMS41IDEuNXYxMUgxNlY3YTEgMSAwIDAgMC0xLTF6bS01IDZINGExIDEgMCAwIDAtMSAxdjEwYTEgMSAwIDAgMCAxIDFoN1YxM2ExIDEgMCAwIDAtMS0xeiIvPjwvc3ZnPg==">&nbsp;
   
   <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python">&nbsp;
   <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=r&logoColor=white">&nbsp;
