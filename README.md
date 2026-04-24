@@ -2,8 +2,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fhugomendes&color=blue" alt="Profile views" /> </p>
 
-📖 Estudante de Ciência de Dados na Universidade Federal do Ceará<br>
-🔥 Atualmente estudando desenvolvimento Full-Stack<br>
+📖 Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC)<br>
+💼 Bolsista na CPITT (UFC)<br>
+🧠 Focado em Machine Learning, Automação e Análise de Dados<br>
 🏠 Fortaleza/CE  
 
 ----
@@ -20,10 +21,10 @@
   <img src="https://img.shields.io/badge/-Power_Bi-05122A?style=for-the-badge&logo=codeforces&logoColor=white">&nbsp;
   
   <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6">&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql">&nbsp;
+  <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=r&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=postgresql">&nbsp;
+  <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=4DABCF">&nbsp;
+  <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
 
 </div>
 
@@ -34,13 +35,12 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/-MariaDB-05122A?style=for-the-badge&logo=mariadb">&nbsp;
+  <img src="https://img.shields.io/badge/-Machine_Learning-05122A?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb">&nbsp;
   
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js">&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6">&nbsp;
-  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react">&nbsp;
-  <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=43B02A">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript">&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6">&nbsp;
   
 </div>
 
