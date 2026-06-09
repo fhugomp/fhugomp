@@ -25,10 +25,10 @@
 
 <h3>Sobre mim:</h3>
 
-• Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC)  
-• Bolsista na CPITT (UFC)  
-• Interesse em Machine Learning, Ciência de Dados e Automação  
-• Fortaleza, CE — Brasil
+🔹 Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC)  
+🔹 Bolsista na CPITT (UFC)  
+🔹 Interesse em Machine Learning, Ciência de Dados e Automação  
+🔹 Fortaleza, CE — Brasil
 
 ---
 
