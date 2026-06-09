@@ -17,11 +17,11 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fhugomp.fhugomp&left_color=firebrick&right_color=lightcoral&left_text=Profile views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fhugomp.fhugomp&left_color=firebrick&right_color=lightcoral&left_text=Profile%20views"  />
 </div>
+
+<br>
 
 <h3>Sobre mim:</h3>
 
