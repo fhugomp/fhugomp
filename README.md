@@ -64,7 +64,8 @@
 <h3>Analytics:</h3>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhugomp&theme=tokyonight&hide_border=true&background=0D1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1" />
+  <img align="middle" width="29%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fhugomp&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
+  <img align="middle" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhugomp&theme=tokyonight&hide_border=true&background=0D1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1" />
 </div>
 
 ---
