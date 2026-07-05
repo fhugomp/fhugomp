@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://fhugomp.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-7159c1?style=for-the-badge&logo=safari&logoColor=white" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=safari&logoColor=white" height="25" alt="portfolio logo"  />
   </a>
 </div>
 
